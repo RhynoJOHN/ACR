@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5c9Ad8afE2D12D99feC290A875aCe6fD388EB80B",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5c9Ad8afE2D12D99feC290A875aCe6fD388EB80B",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AirCRYPTO",
+  "SYMBOL": "ACT",
+  "MAX_SUPPLY": 5500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aircryptoclub",
+  "SHOW_BACKGROUND": true
+}
